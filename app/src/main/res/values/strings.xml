@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string-array name="test">
+        <item>task 1</item>
+        <item>task 2</item>
+        <item>task 3</item>
+    </string-array>
+</resources>
